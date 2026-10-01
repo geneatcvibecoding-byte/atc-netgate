@@ -1,0 +1,6 @@
+{
+  "name": "NetGate — WiFi Hotspot Manager",
+  "description": "Time-based WiFi voucher hotspot management system with captive portal, firewall rules, device tracking, voucher printing, and LCD display.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
